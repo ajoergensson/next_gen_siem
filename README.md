@@ -1,8 +1,6 @@
 # Next-Gen SIEM | Open Source, Cost-Efficient, OSCF-Aligned
 ---
 
-## 🛡️ Next-Gen SIEM | Open Source, Cost-Efficient, OSCF-Aligned
-
 Welcome to the **Next-Gen SIEM** – a modern, lightweight, and cost-effective Security Information and Event Management (SIEM) solution built using open-source technologies and aligned with the **Open Security Controls Framework (OSCF)** schema.
 
 ### 🔍 Key Features
